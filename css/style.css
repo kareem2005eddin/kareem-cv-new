@@ -1,0 +1,65 @@
+div {
+    background-color: #E4F9F5;
+}
+
+body {
+    margin: 0%;
+    text-align: center;
+    
+}
+
+h1 {
+   
+    
+    
+}
+
+/* padding is the space between 
+the content and the border inside the border
+
+we can change border with 
+
+margin is the same padding but from outside border
+
+
+so i can tell you >> from outside to inside
+margin . border . padding 
+*/
+
+.one {
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+
+
+}
+
+.two {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+/* span is used to select some word in the words
+and i think if i want to select somethigng in the hole block &*/
+
+.top-cloud {
+   
+ position: absolute;
+ right: 250px;
+ top: 250px;
+
+
+}
+
+.bottom-cloud {
+    position : absolute;
+}
+
+
+
