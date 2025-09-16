@@ -6,11 +6,20 @@ body {
     margin: 0%;
     text-align: center;
     
+ 
 }
+
+  /*  font-family:  cursive ,sans-serif  ;
+     if some font didnt work in verdana it will working in sans-serif */
+
 
 h1 {
    
-    
+  
+  font-family: "Sacramento", cursive;
+  font-weight: 800;
+  font-style: normal;
+
     
 }
 
@@ -25,6 +34,10 @@ margin is the same padding but from outside border
 so i can tell you >> from outside to inside
 margin . border . padding 
 */
+
+.pro {
+    font-family: "Oswald", sans-serif;
+}
 
 .one {
 background-color: #E4F9F5;
@@ -60,6 +73,9 @@ and i think if i want to select somethigng in the hole block &*/
 .bottom-cloud {
     position : absolute;
 }
+
+
+/* the 
 
 
 
